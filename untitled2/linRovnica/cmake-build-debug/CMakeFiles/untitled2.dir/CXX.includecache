@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/CLionProjects/untitled2/linRovnica.h
+
+C:/Users/User/CLionProjects/untitled2/main.cpp
+iostream
+-
+linRovnica.h
+C:/Users/User/CLionProjects/untitled2/linRovnica.h
+linRovnica.h
+C:/Users/User/CLionProjects/untitled2/linRovnica.h
+
